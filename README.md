@@ -8,9 +8,13 @@ This repository is one of my first steps into version control and project docume
 
 Interests
     •    🎓 Psychology & Data Science student
+    
     •    📊 Interested in data analysis, statistics, and human behavior
+    
     •    🧠 Curious about research, machine learning, and cognitive science
+    
     •    🌱 Currently learning and experimenting with new projects 
+    
     •    💡 Always open to trying something new
 
 Thanks for visiting my repository!
