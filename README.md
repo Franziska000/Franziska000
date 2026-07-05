@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Franziska, a Psychology and Data Science student based in Germany.
 
 I'm currently learning how to use GitHub to organize my projects, document my work, and improve my programming skills. My main interests are psychology, data analysis, scientific computing, and working with tools like Python and Git.
